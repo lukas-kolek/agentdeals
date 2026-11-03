@@ -39335,6 +39335,28 @@
         "cloudflare"
       ],
       "verifiedDate": "2026-11-03"
+    },
+    {
+      "vendor": "Calven Startup Program",
+      "category": "Startup Perks",
+      "description": "Calven's Professional plan (AI product marketing: competitive intelligence, win/loss, voice of customer, positioning) at $200/month billed annually, or $250/month billed monthly, instead of $1,000/month, for 12 months. Companies that still qualify can keep the price for a second year. Self-declared eligibility, spot-checked; no call or demo needed.",
+      "tier": "Startup Discount",
+      "url": "https://calven.ai/startups",
+      "tags": [
+        "marketing",
+        "competitive-intelligence",
+        "startup-credits"
+      ],
+      "verifiedDate": "2026-11-03",
+      "eligibility": {
+        "type": "startup",
+        "conditions": [
+          "Under $1M ARR",
+          "Fewer than 10 employees",
+          "VC-backed or bootstrapped"
+        ],
+        "program": "Calven Startup Program"
+      }
     }
   ],
   "changes": []
